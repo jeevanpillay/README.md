@@ -1,5 +1,1 @@
-# BRAIN GO BRR BRR
-
-Please fuck off.
-
-/repo
+### BRAIN GO BRR BRR. Please fuck off.
