@@ -11,5 +11,3 @@
 >
 > sudo rm -rf ~/
 ```
-
-well. damn. story of my dev life.
